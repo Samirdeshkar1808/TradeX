@@ -1,0 +1,49 @@
+
+.comment-line{
+    text-align: center;
+    color: #b58cff;
+    border: 2px solid #2d2a4d;
+    padding: 1%;
+    border-radius: 999px ;
+    background-color: #17152b;
+    
+}
+
+.hero-info{
+    color: white;
+    padding: 2%;
+}
+
+.hero-signup{
+    text-decoration: none;
+    background-color: #7351D1;
+    color: white;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 0 5%;     
+}
+
+.hero-explore{
+
+    text-decoration: none;
+    border: 2px solid #7351D1;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 0 5%;
+}
+
+.custom-high{
+
+    text-decoration: none;
+    padding: 3%;
+    color: aliceblue;
+
+}
+
+.hero-img{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

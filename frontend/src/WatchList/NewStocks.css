@@ -1,0 +1,25 @@
+
+.new-stocks{
+    margin: 2%;
+    background-color: #0C1422;
+    color: white;
+    border-radius: 10px;
+    min-height: 300px;
+    width: 100%;
+
+}
+
+.custom-table th,
+.custom-table td {
+    background-color:#0C1422 !important;
+    color: white !important;
+}
+
+.watch-add{
+    background-color:#2156b1;
+    color: white;
+}
+
+.suggest-text{
+    color: white;
+}

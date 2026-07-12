@@ -1,0 +1,19 @@
+.feature-card{
+  
+    padding: 20px;  
+    text-align: center;
+    background-color: #17152b ;
+    color: white;
+    border-radius: 5%;
+    
+}
+
+.feature-card:hover {
+    transform: translateY(-12px) scale(1.03);
+    box-shadow: 0 10px 20px rgba(90, 100, 255, 0.35);
+    border-color: #6c63ff;
+}
+
+.img-icons{
+    width: 20%;
+}

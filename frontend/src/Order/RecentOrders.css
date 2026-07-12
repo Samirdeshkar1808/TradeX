@@ -1,0 +1,16 @@
+
+.recent-tab{
+
+    color: aliceblue;
+    background-color: #0C1422;
+    margin: 3%;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.recent-table th,
+.recent-table td {
+    background-color:#0C1422 !important;
+    color: white !important;
+}
+

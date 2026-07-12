@@ -1,0 +1,22 @@
+
+.port-image{
+
+    width: 30%;
+}
+
+.heading{
+    color:azure;
+}
+
+.overview{
+    margin: 2%;
+    background-color: #0C1320;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.total-portfolio{
+
+    padding-left: 8%;
+}

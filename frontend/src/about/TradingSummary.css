@@ -1,0 +1,13 @@
+.trading-info{
+    background-color: #0C1320;
+    border-radius: 10px;
+    color: white;
+
+    min-height: 350px;
+}
+
+.account-info td{
+
+    background-color: #0C1320 ;
+    color: white;
+}

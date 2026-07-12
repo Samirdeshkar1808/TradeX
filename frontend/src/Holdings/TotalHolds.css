@@ -1,0 +1,26 @@
+
+.totalHolds{
+    background-color: #0C1422;
+    margin: 2% 5%;
+    border-radius: 10px;
+}
+
+.sell-btn{
+    background-color: red;
+    color: white;
+}
+
+.sell-btn:hover{
+    background-color: peachpuff;
+    color: brown;
+}
+
+.custom-table th,
+.custom-table td {
+    background-color:#0C1422 !important;
+    color: white !important;
+}
+
+.custom-table th{
+    opacity: 0.5;
+}

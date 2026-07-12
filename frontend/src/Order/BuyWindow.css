@@ -1,0 +1,56 @@
+
+.buywindow{
+
+    color: aliceblue;
+    background-color: #0C1422;
+    margin: 4%;
+    padding: 3%;
+    border-radius: 10px;
+
+}
+
+.company-info{
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+    border: 2px solid white;
+    padding: 1%;
+    border-radius: 10px;
+
+}
+
+
+.qtyform{
+    margin: 2%;
+    padding: 1%;
+}
+
+.totalamount{
+    color: white;
+    margin: 3% 0;
+    padding: 2%;
+    background-color: #0d1e3b;
+    border-radius: 10px;
+
+}
+
+.totamt{
+    opacity: 0.5;
+}
+
+.buybtn , .sellbtn{
+    width: 100%;
+    padding: 2%;
+}
+
+#qty{
+    border: 2px solid white;
+    background-color: #212067;
+    color: aliceblue;
+    border-radius: 10px;
+    margin: 2% 0;
+}
+
+h4{
+    color: white;
+}

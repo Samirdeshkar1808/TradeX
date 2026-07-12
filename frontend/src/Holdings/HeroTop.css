@@ -1,0 +1,20 @@
+
+.investments-hold{
+
+    background-color: #0C1422;
+    color: white;
+    border-radius: 10px;
+}
+
+.money-card{
+
+    background-color: #182438;
+    color: white;
+    margin: 2% 5%;
+    border-radius: 10px;
+   text-align: center;
+}
+
+.money-card p{
+    opacity: 0.5;
+}

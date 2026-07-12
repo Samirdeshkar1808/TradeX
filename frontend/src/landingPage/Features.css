@@ -1,0 +1,26 @@
+.allFeatures{
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 20px;                
+    padding: 0 50px; 
+    margin: auto;
+
+    
+}
+
+.why-text{
+
+    color:#7351D1 ;
+}
+
+.f-headline {
+
+    color: white;
+
+}
+
+.need-text{
+    color: rgb(152, 170, 170);
+}
+

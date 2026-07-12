@@ -1,0 +1,15 @@
+h1{
+
+  color: aliceblue;
+}
+
+.nav-link{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+
+    color: purple;
+    text-decoration: underline;
+}
