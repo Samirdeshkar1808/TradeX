@@ -21,7 +21,7 @@ export default function Hero(){
                         with powerful tools and real-time insights.
                     </p>
 
-                    <h5 className='mx-3'>Get SignUp Bonus of ₹50,000</h5>
+                    <h5 className='mx-3' style={{color:"white"}}>Get SignUp Bonus of ₹50,000</h5>
                     <div className="hero-buttons mt-5">
 
                         <Link className='hero-signup' to={"/signup"}>Get Started For Free →</Link>
