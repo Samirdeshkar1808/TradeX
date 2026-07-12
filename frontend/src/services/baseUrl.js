@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: "http://localhost:8080/",
+    baseURL: "https://tradex-backend-x8q8.onrender.com",
 });
 
 
