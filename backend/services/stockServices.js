@@ -9,8 +9,6 @@ module.exports.updateStockPrices = async(req,res) =>{
 
         for(const stock of stocks){
 
-            console.log(`Updating ${stock.symbol}...`);
-
             const response = await axios.get("https://api.twelvedata.com/quote", { 
                     params: {
                         symbol: `${stock.symbol}`,
@@ -36,9 +34,7 @@ module.exports.updateStockPrices = async(req,res) =>{
             await stock.save();
 
         }
-        
-        console.log("All Stocks Updated");
-
+      
     }
     catch(error){
 
