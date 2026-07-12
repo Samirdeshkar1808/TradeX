@@ -19,7 +19,7 @@ const Watchlist = require('./models/Watchlist');
 app.use(express.json());
 
 app.use(cors({
-  origin: "https://trade-x-sepia.vercel.app/",
+  origin: "https://trade-x-sepia.vercel.app",
   credentials: true,
 }));
 
