@@ -17,7 +17,11 @@ const Stock = require("./models/Stock");
 const Watchlist = require('./models/Watchlist');
 
 app.use(express.json());
-app.use(cors());
+
+app.use(cors({
+  origin: "https://trade-x-sepia.vercel.app/",
+  credentials: true,
+}));
 
 const port = process.env.PORT || 8080;
 const DBURL = process.env.MongoURL;
